@@ -1,5 +1,5 @@
 <?php 
 
-trait Type {
+trait Typeable {
   public $type;
 }
